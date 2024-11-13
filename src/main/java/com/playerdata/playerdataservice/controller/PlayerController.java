@@ -9,10 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/** REST controller for player-related endpoints.
- *
- * @author Sara Nankensky
- */
+/** REST controller for player-related endpoints.*/
 @RestController
 @RequestMapping("/api/players")
 public class PlayerController {

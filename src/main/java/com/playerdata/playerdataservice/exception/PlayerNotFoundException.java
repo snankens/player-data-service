@@ -2,8 +2,6 @@ package com.playerdata.playerdataservice.exception;
 
 /**
  * Exception thrown when a player is not found in the data service.
- *
- * @author Sara Nankensky
  */
 public class PlayerNotFoundException extends RuntimeException {
 

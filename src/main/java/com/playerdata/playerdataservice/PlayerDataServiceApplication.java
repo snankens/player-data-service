@@ -7,8 +7,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 /**
  * Main application class for the Player Data Service.
  * This service handles player-related data and uses JPA for data persistence.
- *
- * @author Sara Nankensky
  */
 @SpringBootApplication
 @EnableJpaRepositories

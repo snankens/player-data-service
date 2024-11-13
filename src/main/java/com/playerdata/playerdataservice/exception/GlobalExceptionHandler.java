@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 /**
  * Global exception handler for handling exceptions across the application. Uses Spring's {@link
  * ControllerAdvice} to apply to all controllers.
- *
- * @author Sara Nankensky
  */
 @ControllerAdvice
 public class GlobalExceptionHandler {

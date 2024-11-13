@@ -6,8 +6,6 @@ import lombok.*;
  * Data Transfer Object for handling error responses in the player data service.
  * This class is used to encapsulate error details that can be sent as a response
  * when an error occurs.
- *
- * @author Sara Nankensky
  */
 @Builder
 @Getter

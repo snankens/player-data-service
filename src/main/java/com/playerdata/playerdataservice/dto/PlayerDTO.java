@@ -8,8 +8,6 @@ import java.time.LocalDate;
 /**
  * Data Transfer Object for Player entity.
  * Contains all fields required to transfer Player data without exposing the entity itself.
- *
- * @author Sara Nankensky
  */
 @Data
 public class PlayerDTO {

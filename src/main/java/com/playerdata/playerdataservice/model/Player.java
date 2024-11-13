@@ -14,8 +14,6 @@ import java.time.LocalDate;
 /**
  * Represents a player entity with personal and statistical information.
  * This class includes validations for fields such as birth date, death date, and playing statistics.
- *
- * @author Sara Nankensky
  */
 @Entity
 @Getter
